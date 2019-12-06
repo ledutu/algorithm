@@ -35,6 +35,6 @@ Print out N integers on a line showing the number of N balls in the order from l
 ### Test #1
 3 2 1 5 4
 
-###Test #2 D
+### Test #2 D
 4 5 1 2 3
 
